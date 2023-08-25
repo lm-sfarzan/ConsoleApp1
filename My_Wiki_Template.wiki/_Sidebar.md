@@ -1,0 +1,6 @@
+* [Team Structure](./team-structure)
+* [Responsibles](./responsibles)
+* [Onboarding](./onboarding)
+* [Development Process](./development-process)
+* [Software Architecture](./software-achitecture)
+* [Design Docs](./design-docs)
